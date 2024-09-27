@@ -16,4 +16,4 @@ I have build this clone from scratch:
 
 5.Deployed it on netlify.com
 
-The SITE is live on: main--razorpay-clone24.netlify.app/
+The SITE is live on:https://main--razorpay-clone24.netlify.app/

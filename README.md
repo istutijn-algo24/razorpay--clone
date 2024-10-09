@@ -1,4 +1,4 @@
-It's a fully responsive clone of Razorpay website using Tailwind CSS(framework) only.
+It's a fully responsive UI clone of Razorpay website using Tailwind CSS(framework) only.
 
 I have build this clone from scratch:
 
@@ -17,3 +17,6 @@ I have build this clone from scratch:
 5.Deployed it on netlify.com
 
 The SITE is live on:https://main--razorpay-clone24.netlify.app/
+
+
+PASSWORD: 4bbb87fb747c4a98e53a0501cad0aee4
